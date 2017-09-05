@@ -1,0 +1,19 @@
+{
+  "name": "typescript-app",
+  "version": "1.0.0",
+  "description": "es6 app using typescript",
+  "main": "main.js",
+  "scripts": {
+    "test": "js, es5, es6, javascript, node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonymedrano/typescript-es6.git"
+  },
+  "author": "Tony Medrano <info@tonymedrano.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonymedrano/typescript-es6/issues"
+  },
+  "homepage": "https://github.com/tonymedrano/typescript-es6#readme"
+}
