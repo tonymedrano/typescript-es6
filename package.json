@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/tonymedrano/typescript-es6/issues"
   },
-  "homepage": "https://github.com/tonymedrano/typescript-es6#readme"
+  "homepage": "https://github.com/tonymedrano/typescript-es6#readme",
+  "dependencies": {
+    "@types/hapi": "^16.1.9",
+    "hapi": "^13.0.0",
+    "typescript": "^2.5.2"
+  }
 }
